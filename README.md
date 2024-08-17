@@ -9,7 +9,9 @@ In this project, we aimed to identify the key drivers affecting used car prices.
 Files Uploaded
 
 Image finalmodelcomp : contains graph showing MSE and R2 comparision between the three models.
+
 used_car_evaluator: python script to run along with vehicles dataset to compare and publish results.
+
 prompt2: Jupiter Notebook related to description of steps taken to get findings analysis.
 
 
